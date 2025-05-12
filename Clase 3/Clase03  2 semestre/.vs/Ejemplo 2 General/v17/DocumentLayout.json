@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Victus\\Downloads\\lss\\Ejemplo 2 General\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37BB1B3F-1D9D-41C6-A6E1-BC469A6EDC38}|Ejemplo 2 General\\Ejemplo 2 General.vbproj|c:\\users\\victus\\downloads\\lss\\ejemplo 2 general\\ejemplo 2 general\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{37BB1B3F-1D9D-41C6-A6E1-BC469A6EDC38}|Ejemplo 2 General\\Ejemplo 2 General.vbproj|solutionrelative:ejemplo 2 general\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37BB1B3F-1D9D-41C6-A6E1-BC469A6EDC38}|Ejemplo 2 General\\Ejemplo 2 General.vbproj|c:\\users\\victus\\downloads\\lss\\ejemplo 2 general\\ejemplo 2 general\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{37BB1B3F-1D9D-41C6-A6E1-BC469A6EDC38}|Ejemplo 2 General\\Ejemplo 2 General.vbproj|solutionrelative:ejemplo 2 general\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\Victus\\Downloads\\lss\\Ejemplo 2 General\\Ejemplo 2 General\\Form1.vb",
+              "RelativeDocumentMoniker": "Ejemplo 2 General\\Form1.vb",
+              "ToolTip": "C:\\Users\\Victus\\Downloads\\lss\\Ejemplo 2 General\\Ejemplo 2 General\\Form1.vb",
+              "RelativeToolTip": "Ejemplo 2 General\\Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-14T22:31:16.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Victus\\Downloads\\lss\\Ejemplo 2 General\\Ejemplo 2 General\\Form1.vb",
+              "RelativeDocumentMoniker": "Ejemplo 2 General\\Form1.vb",
+              "ToolTip": "C:\\Users\\Victus\\Downloads\\lss\\Ejemplo 2 General\\Ejemplo 2 General\\Form1.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Ejemplo 2 General\\Form1.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-14T22:19:05.179Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

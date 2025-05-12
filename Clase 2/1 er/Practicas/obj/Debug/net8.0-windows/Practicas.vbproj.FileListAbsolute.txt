@@ -1,0 +1,17 @@
+C:\Users\andye\source\repos\Practicas\Practicas\bin\Debug\net8.0-windows\Practicas.exe
+C:\Users\andye\source\repos\Practicas\Practicas\bin\Debug\net8.0-windows\Practicas.deps.json
+C:\Users\andye\source\repos\Practicas\Practicas\bin\Debug\net8.0-windows\Practicas.runtimeconfig.json
+C:\Users\andye\source\repos\Practicas\Practicas\bin\Debug\net8.0-windows\Practicas.dll
+C:\Users\andye\source\repos\Practicas\Practicas\bin\Debug\net8.0-windows\Practicas.pdb
+C:\Users\andye\source\repos\Practicas\Practicas\obj\Debug\net8.0-windows\Practicas.Form1.resources
+C:\Users\andye\source\repos\Practicas\Practicas\obj\Debug\net8.0-windows\Practicas.vbproj.GenerateResource.cache
+C:\Users\andye\source\repos\Practicas\Practicas\obj\Debug\net8.0-windows\Practicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andye\source\repos\Practicas\Practicas\obj\Debug\net8.0-windows\Practicas.AssemblyInfoInputs.cache
+C:\Users\andye\source\repos\Practicas\Practicas\obj\Debug\net8.0-windows\Practicas.AssemblyInfo.vb
+C:\Users\andye\source\repos\Practicas\Practicas\obj\Debug\net8.0-windows\Practicas.vbproj.CoreCompileInputs.cache
+C:\Users\andye\source\repos\Practicas\Practicas\obj\Debug\net8.0-windows\Practicas.dll
+C:\Users\andye\source\repos\Practicas\Practicas\obj\Debug\net8.0-windows\refint\Practicas.dll
+C:\Users\andye\source\repos\Practicas\Practicas\obj\Debug\net8.0-windows\Practicas.pdb
+C:\Users\andye\source\repos\Practicas\Practicas\obj\Debug\net8.0-windows\Practicas.genruntimeconfig.cache
+C:\Users\andye\source\repos\Practicas\Practicas\obj\Debug\net8.0-windows\ref\Practicas.dll
+C:\Users\andye\source\repos\Practicas\Practicas\obj\Debug\net8.0-windows\Practicas.Resources.resources

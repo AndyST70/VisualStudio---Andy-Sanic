@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Victus\\Downloads\\lss\\Practica2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A481C3AD-4848-43D0-8F09-92821BE93AE9}|Practica2\\Practica2.vbproj|c:\\users\\victus\\downloads\\lss\\practica2\\practica2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{A481C3AD-4848-43D0-8F09-92821BE93AE9}|Practica2\\Practica2.vbproj|solutionrelative:practica2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A481C3AD-4848-43D0-8F09-92821BE93AE9}|Practica2\\Practica2.vbproj|c:\\users\\victus\\downloads\\lss\\practica2\\practica2\\entrada.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{A481C3AD-4848-43D0-8F09-92821BE93AE9}|Practica2\\Practica2.vbproj|solutionrelative:practica2\\entrada.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A481C3AD-4848-43D0-8F09-92821BE93AE9}|Practica2\\Practica2.vbproj|c:\\users\\victus\\downloads\\lss\\practica2\\practica2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A481C3AD-4848-43D0-8F09-92821BE93AE9}|Practica2\\Practica2.vbproj|solutionrelative:practica2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A481C3AD-4848-43D0-8F09-92821BE93AE9}|Practica2\\Practica2.vbproj|c:\\users\\victus\\downloads\\lss\\practica2\\practica2\\entrada.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A481C3AD-4848-43D0-8F09-92821BE93AE9}|Practica2\\Practica2.vbproj|solutionrelative:practica2\\entrada.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "entrada.vb",
+              "DocumentMoniker": "C:\\Users\\Victus\\Downloads\\lss\\Practica2\\Practica2\\entrada.vb",
+              "RelativeDocumentMoniker": "Practica2\\entrada.vb",
+              "ToolTip": "C:\\Users\\Victus\\Downloads\\lss\\Practica2\\Practica2\\entrada.vb",
+              "RelativeToolTip": "Practica2\\entrada.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-02T19:31:27.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "entrada.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Victus\\Downloads\\lss\\Practica2\\Practica2\\entrada.vb",
+              "RelativeDocumentMoniker": "Practica2\\entrada.vb",
+              "ToolTip": "C:\\Users\\Victus\\Downloads\\lss\\Practica2\\Practica2\\entrada.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Practica2\\entrada.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-02T19:28:51.743Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\Victus\\Downloads\\lss\\Practica2\\Practica2\\Form1.vb",
+              "RelativeDocumentMoniker": "Practica2\\Form1.vb",
+              "ToolTip": "C:\\Users\\Victus\\Downloads\\lss\\Practica2\\Practica2\\Form1.vb",
+              "RelativeToolTip": "Practica2\\Form1.vb",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAAACAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-02T05:22:38.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Victus\\Downloads\\lss\\Practica2\\Practica2\\Form1.vb",
+              "RelativeDocumentMoniker": "Practica2\\Form1.vb",
+              "ToolTip": "C:\\Users\\Victus\\Downloads\\lss\\Practica2\\Practica2\\Form1.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Practica2\\Form1.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-02T05:20:19.402Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+C:\Users\Victus\source\repos\Clase 5 1 semestre\Clase 5 1 semestre\bin\Debug\net8.0-windows\Clase 5 1 semestre.exe
+C:\Users\Victus\source\repos\Clase 5 1 semestre\Clase 5 1 semestre\bin\Debug\net8.0-windows\Clase 5 1 semestre.deps.json
+C:\Users\Victus\source\repos\Clase 5 1 semestre\Clase 5 1 semestre\bin\Debug\net8.0-windows\Clase 5 1 semestre.runtimeconfig.json
+C:\Users\Victus\source\repos\Clase 5 1 semestre\Clase 5 1 semestre\bin\Debug\net8.0-windows\Clase 5 1 semestre.dll
+C:\Users\Victus\source\repos\Clase 5 1 semestre\Clase 5 1 semestre\bin\Debug\net8.0-windows\Clase 5 1 semestre.pdb
+C:\Users\Victus\source\repos\Clase 5 1 semestre\Clase 5 1 semestre\obj\Debug\net8.0-windows\Clase_5_1_semestre.Form1.resources
+C:\Users\Victus\source\repos\Clase 5 1 semestre\Clase 5 1 semestre\obj\Debug\net8.0-windows\Clase_5_1_semestre.login.resources
+C:\Users\Victus\source\repos\Clase 5 1 semestre\Clase 5 1 semestre\obj\Debug\net8.0-windows\Clase 5 1 semestre.vbproj.GenerateResource.cache
+C:\Users\Victus\source\repos\Clase 5 1 semestre\Clase 5 1 semestre\obj\Debug\net8.0-windows\Clase 5 1 semestre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victus\source\repos\Clase 5 1 semestre\Clase 5 1 semestre\obj\Debug\net8.0-windows\Clase 5 1 semestre.AssemblyInfoInputs.cache
+C:\Users\Victus\source\repos\Clase 5 1 semestre\Clase 5 1 semestre\obj\Debug\net8.0-windows\Clase 5 1 semestre.AssemblyInfo.vb
+C:\Users\Victus\source\repos\Clase 5 1 semestre\Clase 5 1 semestre\obj\Debug\net8.0-windows\Clase 5 1 semestre.vbproj.CoreCompileInputs.cache
+C:\Users\Victus\source\repos\Clase 5 1 semestre\Clase 5 1 semestre\obj\Debug\net8.0-windows\Clase 5 1 semestre.dll
+C:\Users\Victus\source\repos\Clase 5 1 semestre\Clase 5 1 semestre\obj\Debug\net8.0-windows\refint\Clase 5 1 semestre.dll
+C:\Users\Victus\source\repos\Clase 5 1 semestre\Clase 5 1 semestre\obj\Debug\net8.0-windows\Clase 5 1 semestre.pdb
+C:\Users\Victus\source\repos\Clase 5 1 semestre\Clase 5 1 semestre\obj\Debug\net8.0-windows\Clase 5 1 semestre.genruntimeconfig.cache
+C:\Users\Victus\source\repos\Clase 5 1 semestre\Clase 5 1 semestre\obj\Debug\net8.0-windows\ref\Clase 5 1 semestre.dll
+C:\Users\Victus\source\repos\Clase 5 1 semestre\Clase 5 1 semestre\obj\Debug\net8.0-windows\Clase_5_1_semestre.gestionempleados.resources
+C:\Users\Victus\source\repos\Clase 5 1 semestre\Clase 5 1 semestre\obj\Debug\net8.0-windows\Clase_5_1_semestre.Form2.resources

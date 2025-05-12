@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Victus\\Downloads\\lss\\Clase08\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89943CB8-15ED-426E-946A-2002DFF843B9}|Clase08\\Clase08.vbproj|C:\\Users\\Victus\\Downloads\\lss\\Clase08\\clase08\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{89943CB8-15ED-426E-946A-2002DFF843B9}|Clase08\\Clase08.vbproj|solutionrelative:clase08\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89943CB8-15ED-426E-946A-2002DFF843B9}|Clase08\\Clase08.vbproj|C:\\Users\\Victus\\Downloads\\lss\\Clase08\\clase08\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{89943CB8-15ED-426E-946A-2002DFF843B9}|Clase08\\Clase08.vbproj|solutionrelative:clase08\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89943CB8-15ED-426E-946A-2002DFF843B9}|Clase08\\Clase08.vbproj|c:\\users\\victus\\downloads\\lss\\clase08\\clase08\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{89943CB8-15ED-426E-946A-2002DFF843B9}|Clase08\\Clase08.vbproj|solutionrelative:clase08\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "C:\\Users\\Victus\\Downloads\\lss\\Clase08\\Clase08\\Module1.vb",
+              "RelativeDocumentMoniker": "Clase08\\Module1.vb",
+              "ToolTip": "C:\\Users\\Victus\\Downloads\\lss\\Clase08\\Clase08\\Module1.vb",
+              "RelativeToolTip": "Clase08\\Module1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-06T23:10:50.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\Victus\\Downloads\\lss\\Clase08\\Clase08\\Form1.vb",
+              "RelativeDocumentMoniker": "Clase08\\Form1.vb",
+              "ToolTip": "C:\\Users\\Victus\\Downloads\\lss\\Clase08\\Clase08\\Form1.vb",
+              "RelativeToolTip": "Clase08\\Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-06T23:10:27.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Victus\\Downloads\\lss\\Clase08\\Clase08\\Form1.vb",
+              "RelativeDocumentMoniker": "Clase08\\Form1.vb",
+              "ToolTip": "C:\\Users\\Victus\\Downloads\\lss\\Clase08\\Clase08\\Form1.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Clase08\\Form1.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-06T23:06:10.023Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+C:\Users\Victus\source\repos\Clase 6\Clase 6\bin\Debug\net8.0-windows\Clase 6.exe
+C:\Users\Victus\source\repos\Clase 6\Clase 6\bin\Debug\net8.0-windows\Clase 6.deps.json
+C:\Users\Victus\source\repos\Clase 6\Clase 6\bin\Debug\net8.0-windows\Clase 6.runtimeconfig.json
+C:\Users\Victus\source\repos\Clase 6\Clase 6\bin\Debug\net8.0-windows\Clase 6.dll
+C:\Users\Victus\source\repos\Clase 6\Clase 6\bin\Debug\net8.0-windows\Clase 6.pdb
+C:\Users\Victus\source\repos\Clase 6\Clase 6\obj\Debug\net8.0-windows\Clase_6.Form1.resources
+C:\Users\Victus\source\repos\Clase 6\Clase 6\obj\Debug\net8.0-windows\Clase 6.vbproj.GenerateResource.cache
+C:\Users\Victus\source\repos\Clase 6\Clase 6\obj\Debug\net8.0-windows\Clase 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victus\source\repos\Clase 6\Clase 6\obj\Debug\net8.0-windows\Clase 6.AssemblyInfoInputs.cache
+C:\Users\Victus\source\repos\Clase 6\Clase 6\obj\Debug\net8.0-windows\Clase 6.AssemblyInfo.vb
+C:\Users\Victus\source\repos\Clase 6\Clase 6\obj\Debug\net8.0-windows\Clase 6.vbproj.CoreCompileInputs.cache
+C:\Users\Victus\source\repos\Clase 6\Clase 6\obj\Debug\net8.0-windows\Clase 6.dll
+C:\Users\Victus\source\repos\Clase 6\Clase 6\obj\Debug\net8.0-windows\refint\Clase 6.dll
+C:\Users\Victus\source\repos\Clase 6\Clase 6\obj\Debug\net8.0-windows\Clase 6.pdb
+C:\Users\Victus\source\repos\Clase 6\Clase 6\obj\Debug\net8.0-windows\Clase 6.genruntimeconfig.cache
+C:\Users\Victus\source\repos\Clase 6\Clase 6\obj\Debug\net8.0-windows\ref\Clase 6.dll
+C:\Users\Victus\source\repos\Clase 6\Clase 6\obj\Debug\net8.0-windows\Clase_6.Form2.resources
+C:\Users\Victus\source\repos\Clase 6\Clase 6\obj\Debug\net8.0-windows\Clase_6.Form3.resources
+C:\Users\Victus\source\repos\Clase 6\Clase 6\obj\Debug\net8.0-windows\Clase_6.restaurante.resources

@@ -1,0 +1,208 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Victus\\Downloads\\lss\\Clase07\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77B303BA-889E-4989-B4EA-60BBFE5BAA7E}|Clase07\\Clase07.vbproj|c:\\users\\victus\\downloads\\lss\\clase07\\clase07\\edades.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{77B303BA-889E-4989-B4EA-60BBFE5BAA7E}|Clase07\\Clase07.vbproj|solutionrelative:clase07\\edades.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B303BA-889E-4989-B4EA-60BBFE5BAA7E}|Clase07\\Clase07.vbproj|c:\\users\\victus\\downloads\\lss\\clase07\\clase07\\paeres e impares.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{77B303BA-889E-4989-B4EA-60BBFE5BAA7E}|Clase07\\Clase07.vbproj|solutionrelative:clase07\\paeres e impares.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B303BA-889E-4989-B4EA-60BBFE5BAA7E}|Clase07\\Clase07.vbproj|c:\\users\\victus\\downloads\\lss\\clase07\\clase07\\mayor.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{77B303BA-889E-4989-B4EA-60BBFE5BAA7E}|Clase07\\Clase07.vbproj|solutionrelative:clase07\\mayor.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B303BA-889E-4989-B4EA-60BBFE5BAA7E}|Clase07\\Clase07.vbproj|c:\\users\\victus\\downloads\\lss\\clase07\\clase07\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{77B303BA-889E-4989-B4EA-60BBFE5BAA7E}|Clase07\\Clase07.vbproj|solutionrelative:clase07\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B303BA-889E-4989-B4EA-60BBFE5BAA7E}|Clase07\\Clase07.vbproj|c:\\users\\victus\\downloads\\lss\\clase07\\clase07\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{77B303BA-889E-4989-B4EA-60BBFE5BAA7E}|Clase07\\Clase07.vbproj|solutionrelative:clase07\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B303BA-889E-4989-B4EA-60BBFE5BAA7E}|Clase07\\Clase07.vbproj|c:\\users\\victus\\downloads\\lss\\clase07\\clase07\\paeres e impares.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{77B303BA-889E-4989-B4EA-60BBFE5BAA7E}|Clase07\\Clase07.vbproj|solutionrelative:clase07\\paeres e impares.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B303BA-889E-4989-B4EA-60BBFE5BAA7E}|Clase07\\Clase07.vbproj|c:\\users\\victus\\downloads\\lss\\clase07\\clase07\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{77B303BA-889E-4989-B4EA-60BBFE5BAA7E}|Clase07\\Clase07.vbproj|solutionrelative:clase07\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B303BA-889E-4989-B4EA-60BBFE5BAA7E}|Clase07\\Clase07.vbproj|c:\\users\\victus\\downloads\\lss\\clase07\\clase07\\datoscomparando.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{77B303BA-889E-4989-B4EA-60BBFE5BAA7E}|Clase07\\Clase07.vbproj|solutionrelative:clase07\\datoscomparando.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B303BA-889E-4989-B4EA-60BBFE5BAA7E}|Clase07\\Clase07.vbproj|c:\\users\\victus\\downloads\\lss\\clase07\\clase07\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{77B303BA-889E-4989-B4EA-60BBFE5BAA7E}|Clase07\\Clase07.vbproj|solutionrelative:clase07\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B303BA-889E-4989-B4EA-60BBFE5BAA7E}|Clase07\\Clase07.vbproj|c:\\users\\victus\\downloads\\lss\\clase07\\clase07\\datoscomparando.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{77B303BA-889E-4989-B4EA-60BBFE5BAA7E}|Clase07\\Clase07.vbproj|solutionrelative:clase07\\datoscomparando.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B303BA-889E-4989-B4EA-60BBFE5BAA7E}|Clase07\\Clase07.vbproj|c:\\users\\victus\\downloads\\lss\\clase07\\clase07\\edades.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{77B303BA-889E-4989-B4EA-60BBFE5BAA7E}|Clase07\\Clase07.vbproj|solutionrelative:clase07\\edades.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DatosComparando.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Victus\\Downloads\\lss\\Clase07\\Clase07\\DatosComparando.vb",
+              "RelativeDocumentMoniker": "Clase07\\DatosComparando.vb",
+              "ToolTip": "C:\\Users\\Victus\\Downloads\\lss\\Clase07\\Clase07\\DatosComparando.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Clase07\\DatosComparando.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-30T22:11:13.083Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Victus\\Downloads\\lss\\Clase07\\Clase07\\Form1.vb",
+              "RelativeDocumentMoniker": "Clase07\\Form1.vb",
+              "ToolTip": "C:\\Users\\Victus\\Downloads\\lss\\Clase07\\Clase07\\Form1.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Clase07\\Form1.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-30T21:26:49.099Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "paeres e impares.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Victus\\Downloads\\lss\\Clase07\\Clase07\\paeres e impares.vb",
+              "RelativeDocumentMoniker": "Clase07\\paeres e impares.vb",
+              "ToolTip": "C:\\Users\\Victus\\Downloads\\lss\\Clase07\\Clase07\\paeres e impares.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Clase07\\paeres e impares.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-30T22:52:17.568Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Victus\\Downloads\\lss\\Clase07\\Clase07\\Form2.vb",
+              "RelativeDocumentMoniker": "Clase07\\Form2.vb",
+              "ToolTip": "C:\\Users\\Victus\\Downloads\\lss\\Clase07\\Clase07\\Form2.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Clase07\\Form2.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-30T23:18:36.576Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.vb",
+              "DocumentMoniker": "C:\\Users\\Victus\\Downloads\\lss\\Clase07\\Clase07\\Form2.vb",
+              "RelativeDocumentMoniker": "Clase07\\Form2.vb",
+              "ToolTip": "C:\\Users\\Victus\\Downloads\\lss\\Clase07\\Clase07\\Form2.vb",
+              "RelativeToolTip": "Clase07\\Form2.vb",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAiwAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-30T23:20:13.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "mayor.vb",
+              "DocumentMoniker": "C:\\Users\\Victus\\Downloads\\lss\\Clase07\\Clase07\\mayor.vb",
+              "RelativeDocumentMoniker": "Clase07\\mayor.vb",
+              "ToolTip": "C:\\Users\\Victus\\Downloads\\lss\\Clase07\\Clase07\\mayor.vb",
+              "RelativeToolTip": "Clase07\\mayor.vb",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwDQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-30T23:15:05.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "paeres e impares.vb",
+              "DocumentMoniker": "C:\\Users\\Victus\\Downloads\\lss\\Clase07\\Clase07\\paeres e impares.vb",
+              "RelativeDocumentMoniker": "Clase07\\paeres e impares.vb",
+              "ToolTip": "C:\\Users\\Victus\\Downloads\\lss\\Clase07\\Clase07\\paeres e impares.vb",
+              "RelativeToolTip": "Clase07\\paeres e impares.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-30T22:55:54.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "edades.vb",
+              "DocumentMoniker": "C:\\Users\\Victus\\Downloads\\lss\\Clase07\\Clase07\\edades.vb",
+              "RelativeDocumentMoniker": "Clase07\\edades.vb",
+              "ToolTip": "C:\\Users\\Victus\\Downloads\\lss\\Clase07\\Clase07\\edades.vb",
+              "RelativeToolTip": "Clase07\\edades.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-30T22:36:39.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\Victus\\Downloads\\lss\\Clase07\\Clase07\\Form1.vb",
+              "RelativeDocumentMoniker": "Clase07\\Form1.vb",
+              "ToolTip": "C:\\Users\\Victus\\Downloads\\lss\\Clase07\\Clase07\\Form1.vb",
+              "RelativeToolTip": "Clase07\\Form1.vb",
+              "ViewState": "AgIAAAEAAAAAAAAAAAASwAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-30T22:10:47.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "edades.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Victus\\Downloads\\lss\\Clase07\\Clase07\\edades.vb",
+              "RelativeDocumentMoniker": "Clase07\\edades.vb",
+              "ToolTip": "C:\\Users\\Victus\\Downloads\\lss\\Clase07\\Clase07\\edades.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Clase07\\edades.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-30T22:35:11.968Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DatosComparando.vb",
+              "DocumentMoniker": "C:\\Users\\Victus\\Downloads\\lss\\Clase07\\Clase07\\DatosComparando.vb",
+              "RelativeDocumentMoniker": "Clase07\\DatosComparando.vb",
+              "ToolTip": "C:\\Users\\Victus\\Downloads\\lss\\Clase07\\Clase07\\DatosComparando.vb",
+              "RelativeToolTip": "Clase07\\DatosComparando.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-30T22:12:37.448Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

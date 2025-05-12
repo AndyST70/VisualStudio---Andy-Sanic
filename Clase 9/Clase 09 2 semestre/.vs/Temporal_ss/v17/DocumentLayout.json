@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Victus\\Downloads\\lss\\Temporal_ss\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8666AFD-F081-4699-BAF5-46F8BC018F12}|Temporal_ss\\Temporal_ss.vbproj|C:\\Users\\Victus\\Downloads\\lss\\Temporal_ss\\temporal_ss\\user.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F8666AFD-F081-4699-BAF5-46F8BC018F12}|Temporal_ss\\Temporal_ss.vbproj|solutionrelative:temporal_ss\\user.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8666AFD-F081-4699-BAF5-46F8BC018F12}|Temporal_ss\\Temporal_ss.vbproj|C:\\Users\\Victus\\Downloads\\lss\\Temporal_ss\\temporal_ss\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F8666AFD-F081-4699-BAF5-46F8BC018F12}|Temporal_ss\\Temporal_ss.vbproj|solutionrelative:temporal_ss\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8666AFD-F081-4699-BAF5-46F8BC018F12}|Temporal_ss\\Temporal_ss.vbproj|C:\\Users\\Victus\\Downloads\\lss\\Temporal_ss\\temporal_ss\\gestionarusuarios.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F8666AFD-F081-4699-BAF5-46F8BC018F12}|Temporal_ss\\Temporal_ss.vbproj|solutionrelative:temporal_ss\\gestionarusuarios.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8666AFD-F081-4699-BAF5-46F8BC018F12}|Temporal_ss\\Temporal_ss.vbproj|C:\\Users\\Victus\\Downloads\\lss\\Temporal_ss\\temporal_ss\\admin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F8666AFD-F081-4699-BAF5-46F8BC018F12}|Temporal_ss\\Temporal_ss.vbproj|solutionrelative:temporal_ss\\admin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8666AFD-F081-4699-BAF5-46F8BC018F12}|Temporal_ss\\Temporal_ss.vbproj|c:\\users\\victus\\downloads\\lss\\temporal_ss\\temporal_ss\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F8666AFD-F081-4699-BAF5-46F8BC018F12}|Temporal_ss\\Temporal_ss.vbproj|solutionrelative:temporal_ss\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8666AFD-F081-4699-BAF5-46F8BC018F12}|Temporal_ss\\Temporal_ss.vbproj|C:\\Users\\Victus\\Downloads\\lss\\Temporal_ss\\temporal_ss\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F8666AFD-F081-4699-BAF5-46F8BC018F12}|Temporal_ss\\Temporal_ss.vbproj|solutionrelative:temporal_ss\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8666AFD-F081-4699-BAF5-46F8BC018F12}|Temporal_ss\\Temporal_ss.vbproj|C:\\Users\\Victus\\Downloads\\lss\\Temporal_ss\\temporal_ss\\admin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F8666AFD-F081-4699-BAF5-46F8BC018F12}|Temporal_ss\\Temporal_ss.vbproj|solutionrelative:temporal_ss\\admin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8666AFD-F081-4699-BAF5-46F8BC018F12}|Temporal_ss\\Temporal_ss.vbproj|C:\\Users\\Victus\\Downloads\\lss\\Temporal_ss\\temporal_ss\\gestionarusuarios.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F8666AFD-F081-4699-BAF5-46F8BC018F12}|Temporal_ss\\Temporal_ss.vbproj|solutionrelative:temporal_ss\\gestionarusuarios.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\Victus\\Downloads\\lss\\Temporal_ss\\Temporal_ss\\Form1.vb",
+              "RelativeDocumentMoniker": "Temporal_ss\\Form1.vb",
+              "ToolTip": "C:\\Users\\Victus\\Downloads\\lss\\Temporal_ss\\Temporal_ss\\Form1.vb",
+              "RelativeToolTip": "Temporal_ss\\Form1.vb",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-22T13:26:20.05Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "admin.vb",
+              "DocumentMoniker": "C:\\Users\\Victus\\Downloads\\lss\\Temporal_ss\\Temporal_ss\\admin.vb",
+              "RelativeDocumentMoniker": "Temporal_ss\\admin.vb",
+              "ToolTip": "C:\\Users\\Victus\\Downloads\\lss\\Temporal_ss\\Temporal_ss\\admin.vb",
+              "RelativeToolTip": "Temporal_ss\\admin.vb",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-11T00:16:51.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "user.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Victus\\Downloads\\lss\\Temporal_ss\\Temporal_ss\\user.vb",
+              "RelativeDocumentMoniker": "Temporal_ss\\user.vb",
+              "ToolTip": "C:\\Users\\Victus\\Downloads\\lss\\Temporal_ss\\Temporal_ss\\user.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Temporal_ss\\user.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-10T22:28:35.6Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "admin.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Victus\\Downloads\\lss\\Temporal_ss\\Temporal_ss\\admin.vb",
+              "RelativeDocumentMoniker": "Temporal_ss\\admin.vb",
+              "ToolTip": "C:\\Users\\Victus\\Downloads\\lss\\Temporal_ss\\Temporal_ss\\admin.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Temporal_ss\\admin.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-10T22:28:27.138Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "C:\\Users\\Victus\\Downloads\\lss\\Temporal_ss\\Temporal_ss\\Module1.vb",
+              "RelativeDocumentMoniker": "Temporal_ss\\Module1.vb",
+              "ToolTip": "C:\\Users\\Victus\\Downloads\\lss\\Temporal_ss\\Temporal_ss\\Module1.vb",
+              "RelativeToolTip": "Temporal_ss\\Module1.vb",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABIAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-22T13:34:20.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Victus\\Downloads\\lss\\Temporal_ss\\Temporal_ss\\Form1.vb",
+              "RelativeDocumentMoniker": "Temporal_ss\\Form1.vb",
+              "ToolTip": "C:\\Users\\Victus\\Downloads\\lss\\Temporal_ss\\Temporal_ss\\Form1.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Temporal_ss\\Form1.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-22T13:19:05.261Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "gestionarusuarios.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Victus\\Downloads\\lss\\Temporal_ss\\Temporal_ss\\gestionarusuarios.vb",
+              "RelativeDocumentMoniker": "Temporal_ss\\gestionarusuarios.vb",
+              "ToolTip": "C:\\Users\\Victus\\Downloads\\lss\\Temporal_ss\\Temporal_ss\\gestionarusuarios.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Temporal_ss\\gestionarusuarios.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-11T00:16:57.887Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "gestionarusuarios.vb",
+              "DocumentMoniker": "C:\\Users\\Victus\\Downloads\\lss\\Temporal_ss\\Temporal_ss\\gestionarusuarios.vb",
+              "RelativeDocumentMoniker": "Temporal_ss\\gestionarusuarios.vb",
+              "ToolTip": "C:\\Users\\Victus\\Downloads\\lss\\Temporal_ss\\Temporal_ss\\gestionarusuarios.vb",
+              "RelativeToolTip": "Temporal_ss\\gestionarusuarios.vb",
+              "ViewState": "AgIAABcAAAAAAAAAAAAhwDIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-11T00:41:39.178Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

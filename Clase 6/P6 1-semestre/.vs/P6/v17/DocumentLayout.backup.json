@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\OlgaT\\source\\repos\\P6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FAD24CCE-E215-4825-AA3C-B154BEACE4AB}|P6\\P6.vbproj|c:\\users\\olgat\\source\\repos\\p6\\p6\\module2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{FAD24CCE-E215-4825-AA3C-B154BEACE4AB}|P6\\P6.vbproj|solutionrelative:p6\\module2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAD24CCE-E215-4825-AA3C-B154BEACE4AB}|P6\\P6.vbproj|c:\\users\\olgat\\source\\repos\\p6\\p6\\restaurante.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{FAD24CCE-E215-4825-AA3C-B154BEACE4AB}|P6\\P6.vbproj|solutionrelative:p6\\restaurante.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAD24CCE-E215-4825-AA3C-B154BEACE4AB}|P6\\P6.vbproj|c:\\users\\olgat\\source\\repos\\p6\\p6\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{FAD24CCE-E215-4825-AA3C-B154BEACE4AB}|P6\\P6.vbproj|solutionrelative:p6\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAD24CCE-E215-4825-AA3C-B154BEACE4AB}|P6\\P6.vbproj|c:\\users\\olgat\\source\\repos\\p6\\p6\\restaurante.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{FAD24CCE-E215-4825-AA3C-B154BEACE4AB}|P6\\P6.vbproj|solutionrelative:p6\\restaurante.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAD24CCE-E215-4825-AA3C-B154BEACE4AB}|P6\\P6.vbproj|c:\\users\\olgat\\source\\repos\\p6\\p6\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{FAD24CCE-E215-4825-AA3C-B154BEACE4AB}|P6\\P6.vbproj|solutionrelative:p6\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Module2.vb",
+              "DocumentMoniker": "C:\\Users\\OlgaT\\source\\repos\\P6\\P6\\Module2.vb",
+              "RelativeDocumentMoniker": "P6\\Module2.vb",
+              "ToolTip": "C:\\Users\\OlgaT\\source\\repos\\P6\\P6\\Module2.vb",
+              "RelativeToolTip": "P6\\Module2.vb",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwDMAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-23T22:52:57.253Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\OlgaT\\source\\repos\\P6\\P6\\Form1.vb",
+              "RelativeDocumentMoniker": "P6\\Form1.vb",
+              "ToolTip": "C:\\Users\\OlgaT\\source\\repos\\P6\\P6\\Form1.vb [Dise\u00F1o]",
+              "RelativeToolTip": "P6\\Form1.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-23T21:36:55.137Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "restaurante.vb",
+              "DocumentMoniker": "C:\\Users\\OlgaT\\source\\repos\\P6\\P6\\restaurante.vb",
+              "RelativeDocumentMoniker": "P6\\restaurante.vb",
+              "ToolTip": "C:\\Users\\OlgaT\\source\\repos\\P6\\P6\\restaurante.vb",
+              "RelativeToolTip": "P6\\restaurante.vb",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwC0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-23T22:52:00.363Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "restaurante.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\OlgaT\\source\\repos\\P6\\P6\\restaurante.vb",
+              "RelativeDocumentMoniker": "P6\\restaurante.vb",
+              "ToolTip": "C:\\Users\\OlgaT\\source\\repos\\P6\\P6\\restaurante.vb [Dise\u00F1o]",
+              "RelativeToolTip": "P6\\restaurante.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-23T22:47:14.906Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "C:\\Users\\OlgaT\\source\\repos\\P6\\P6\\Module1.vb",
+              "RelativeDocumentMoniker": "P6\\Module1.vb",
+              "ToolTip": "C:\\Users\\OlgaT\\source\\repos\\P6\\P6\\Module1.vb",
+              "RelativeToolTip": "P6\\Module1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-23T22:53:22.913Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

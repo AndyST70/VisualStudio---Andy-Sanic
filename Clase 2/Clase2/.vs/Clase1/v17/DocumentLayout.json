@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Victus\\Downloads\\lss\\Clase1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99C9EED2-78F3-46D5-BBBE-A266DC9E597D}|Clase1\\Clase1.vbproj|c:\\users\\victus\\downloads\\lss\\clase1\\clase1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{99C9EED2-78F3-46D5-BBBE-A266DC9E597D}|Clase1\\Clase1.vbproj|solutionrelative:clase1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99C9EED2-78F3-46D5-BBBE-A266DC9E597D}|Clase1\\Clase1.vbproj|c:\\users\\victus\\downloads\\lss\\clase1\\clase1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{99C9EED2-78F3-46D5-BBBE-A266DC9E597D}|Clase1\\Clase1.vbproj|solutionrelative:clase1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\Victus\\Downloads\\lss\\Clase1\\Clase1\\Form1.vb",
+              "RelativeDocumentMoniker": "Clase1\\Form1.vb",
+              "ToolTip": "C:\\Users\\Victus\\Downloads\\lss\\Clase1\\Clase1\\Form1.vb",
+              "RelativeToolTip": "Clase1\\Form1.vb",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAAADMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-26T22:22:21.351Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Victus\\Downloads\\lss\\Clase1\\Clase1\\Form1.vb",
+              "RelativeDocumentMoniker": "Clase1\\Form1.vb",
+              "ToolTip": "C:\\Users\\Victus\\Downloads\\lss\\Clase1\\Clase1\\Form1.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Clase1\\Form1.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-26T21:37:21.508Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

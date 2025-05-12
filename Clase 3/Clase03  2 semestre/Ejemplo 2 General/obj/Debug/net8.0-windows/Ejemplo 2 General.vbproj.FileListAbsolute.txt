@@ -1,0 +1,16 @@
+C:\Repos\Progra092\Ejemplo 2 General\Ejemplo 2 General\bin\Debug\net8.0-windows\Ejemplo 2 General.exe
+C:\Repos\Progra092\Ejemplo 2 General\Ejemplo 2 General\bin\Debug\net8.0-windows\Ejemplo 2 General.deps.json
+C:\Repos\Progra092\Ejemplo 2 General\Ejemplo 2 General\bin\Debug\net8.0-windows\Ejemplo 2 General.runtimeconfig.json
+C:\Repos\Progra092\Ejemplo 2 General\Ejemplo 2 General\bin\Debug\net8.0-windows\Ejemplo 2 General.dll
+C:\Repos\Progra092\Ejemplo 2 General\Ejemplo 2 General\bin\Debug\net8.0-windows\Ejemplo 2 General.pdb
+C:\Repos\Progra092\Ejemplo 2 General\Ejemplo 2 General\obj\Debug\net8.0-windows\Ejemplo_2_General.Form1.resources
+C:\Repos\Progra092\Ejemplo 2 General\Ejemplo 2 General\obj\Debug\net8.0-windows\Ejemplo 2 General.vbproj.GenerateResource.cache
+C:\Repos\Progra092\Ejemplo 2 General\Ejemplo 2 General\obj\Debug\net8.0-windows\Ejemplo 2 General.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Progra092\Ejemplo 2 General\Ejemplo 2 General\obj\Debug\net8.0-windows\Ejemplo 2 General.AssemblyInfoInputs.cache
+C:\Repos\Progra092\Ejemplo 2 General\Ejemplo 2 General\obj\Debug\net8.0-windows\Ejemplo 2 General.AssemblyInfo.vb
+C:\Repos\Progra092\Ejemplo 2 General\Ejemplo 2 General\obj\Debug\net8.0-windows\Ejemplo 2 General.vbproj.CoreCompileInputs.cache
+C:\Repos\Progra092\Ejemplo 2 General\Ejemplo 2 General\obj\Debug\net8.0-windows\Ejemplo 2 General.dll
+C:\Repos\Progra092\Ejemplo 2 General\Ejemplo 2 General\obj\Debug\net8.0-windows\refint\Ejemplo 2 General.dll
+C:\Repos\Progra092\Ejemplo 2 General\Ejemplo 2 General\obj\Debug\net8.0-windows\Ejemplo 2 General.pdb
+C:\Repos\Progra092\Ejemplo 2 General\Ejemplo 2 General\obj\Debug\net8.0-windows\Ejemplo 2 General.genruntimeconfig.cache
+C:\Repos\Progra092\Ejemplo 2 General\Ejemplo 2 General\obj\Debug\net8.0-windows\ref\Ejemplo 2 General.dll

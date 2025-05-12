@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Clase 5 1 semestre/1.0.0": {
+        "runtime": {
+          "Clase 5 1 semestre.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Clase 5 1 semestre/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

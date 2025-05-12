@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\NewReposTemp\\VisualStudio---Andy-Sanic\\Clase 1\\1 er\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31B8BE06-BC69-498B-8E90-7375F88C4162}|Practicas\\Practicas.vbproj|c:\\newrepostemp\\visualstudio---andy-sanic\\clase 1\\1 er\\practicas\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{31B8BE06-BC69-498B-8E90-7375F88C4162}|Practicas\\Practicas.vbproj|solutionrelative:practicas\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B8BE06-BC69-498B-8E90-7375F88C4162}|Practicas\\Practicas.vbproj|c:\\newrepostemp\\visualstudio---andy-sanic\\clase 1\\1 er\\practicas\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{31B8BE06-BC69-498B-8E90-7375F88C4162}|Practicas\\Practicas.vbproj|solutionrelative:practicas\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\NewReposTemp\\VisualStudio---Andy-Sanic\\Clase 1\\1 er\\Practicas\\Form1.vb",
+              "RelativeDocumentMoniker": "Practicas\\Form1.vb",
+              "ToolTip": "C:\\NewReposTemp\\VisualStudio---Andy-Sanic\\Clase 1\\1 er\\Practicas\\Form1.vb",
+              "RelativeToolTip": "Practicas\\Form1.vb",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAADYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-26T19:06:51.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\NewReposTemp\\VisualStudio---Andy-Sanic\\Clase 1\\1 er\\Practicas\\Form1.vb",
+              "RelativeDocumentMoniker": "Practicas\\Form1.vb",
+              "ToolTip": "C:\\NewReposTemp\\VisualStudio---Andy-Sanic\\Clase 1\\1 er\\Practicas\\Form1.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Practicas\\Form1.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-26T17:20:50.832Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
